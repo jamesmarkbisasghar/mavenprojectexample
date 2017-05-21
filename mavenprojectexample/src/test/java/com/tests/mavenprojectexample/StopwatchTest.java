@@ -27,6 +27,7 @@ public class StopwatchTest {
 
 		
 		System.out.println("Hello world");
+		System.out.println("New addition");
 		
 	}
 
